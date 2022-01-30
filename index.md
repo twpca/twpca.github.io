@@ -47,6 +47,20 @@ layout: default
     <td><a href="//github.com/twpca/nhspc-2021/tree/main/release/testdata">T</a></td>
   </tr>
   <tr>
+    <td>2020</td>
+    <td><a href="//github.com/twpca/nhspc-2020">R</a></td>
+    <td><a href="//github.com/twpca/nhspc-2020/tree/main/checker">C</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/nhspc-2020/tree/main/solution">SO</a></td>
+    <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
+    <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
+    <td><a href="//nhspc2020.twpca.org/editorial/editorial">E</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>2019</td>
     <td><a href="//github.com/twpca/nhspc-2019">R</a></td>
     <td>-</td>
