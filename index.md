@@ -163,4 +163,6 @@ layout: default
 
 ## Contact
 
-有任何疑問請恰 `admin@twpca.org`
+- Email: `admin@twpca.org`
+- [Github](//github.com/twpca/twpca.github.io)
+- [Github Org](//github.com/twpca)
