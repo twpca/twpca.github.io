@@ -13,6 +13,7 @@ layout: default
     <th title="Contest" colspan="2">Contest</th>
     <th title="出題/驗題資料" colspan="6">出題/驗題資料</th>
     <th title="賽後資料" colspan="4">賽後資料</th>
+    <th title="心得文" colspan="2">心得文</th>
   </tr>
   <tr>
     <th title="Year" alt="Year">Y</th>
@@ -27,6 +28,8 @@ layout: default
     <th title="Problem Set" alt="Problem Set">PS</th>
     <th title="Scoreboard" alt="Scoreboard">SC</th>
     <th title="Testdata" alt="Testdata">T</th>
+    <th title="Organizer/ProblemSetter/Tester" alt="Organizer/ProblemSetter/Tester">O/PS/T</th>
+    <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
     <td>2021</td>
@@ -45,6 +48,8 @@ layout: default
     <td><a href="//nhspc2021.twpca.org/release/problem/problems.pdf">PS</a></td>
     <td>-</td>
     <td><a href="//github.com/twpca/nhspc-2021/tree/main/release/testdata">T</a></td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>2020</td>
@@ -58,6 +63,10 @@ layout: default
     <td><a href="//nhspc2020.twpca.org/editorial/editorial">E</a></td>
     <td>-</td>
     <td>-</td>
+    <td>-</td>
+    <td>
+      <a href="//hiiragi4000.blogspot.com/2021/01/2020.html">hiiragi4000</a>
+    </td>
     <td>-</td>
   </tr>
   <tr>
@@ -73,6 +82,8 @@ layout: default
     <td>-</td>
     <td>-</td>
     <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -83,6 +94,7 @@ layout: default
     <th title="Contest" colspan="2">Contest</th>
     <th title="出題/驗題資料" colspan="6">出題/驗題資料</th>
     <th title="賽後資料" colspan="4">賽後資料</th>
+    <th title="心得文" colspan="2">心得文</th>
   </tr>
   <tr>
     <th title="Year" alt="Year">Y</th>
@@ -97,6 +109,8 @@ layout: default
     <th title="Problem Set" alt="Problem Set">PS</th>
     <th title="Scoreboard" alt="Scoreboard">SC</th>
     <th title="Testdata" alt="Testdata">T</th>
+    <th title="Organizer/ProblemSetter/Tester" alt="Organizer/ProblemSetter/Tester">O/PS/T</th>
+    <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
     <td>2021</td>
@@ -111,6 +125,8 @@ layout: default
     <td>-</td>
     <td>-</td>
     <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>2020</td>
@@ -120,6 +136,8 @@ layout: default
     <td>-</td>
     <td><a href="//github.com/twpca/toi-primary-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/toi-primary-2020/tree/main/validator">V</a></td>
+    <td>-</td>
+    <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -141,7 +159,7 @@ layout: default
 
 ## 管理者募集中
 
-如果你有意參與或協助維護資料，請聯絡下面信箱。
+如果你有興趣參與或協助維護資料，歡迎你聯絡下面信箱。
 
 ## Contact
 
