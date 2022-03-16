@@ -120,7 +120,7 @@ layout: default
     <td>2022</td>
     <td><a href="//github.com/twpca/toi-primary-2022">R</a></td>
     <td><a href="//github.com/twpca/toi-primary-2022/tree/main/checker">C</a></td>
-    <td>-</td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/generator">G</a></td>
     <td><a href="//github.com/twpca/toi-primary-2022/tree/main/problem">P</a></td>
     <td><a href="//github.com/twpca/toi-primary-2022/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/toi-primary-2022/tree/main/validator">V</a></td>
