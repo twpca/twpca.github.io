@@ -4,6 +4,10 @@ layout: default
 
 # TW programming contest archive
 
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+[Archive 首頁](https://www.twpca.org/)
+
 ## 已公開資料
 
 ### 全國資訊學科能力競賽 (NHSPC)
@@ -113,6 +117,26 @@ layout: default
     <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
+    <td>2022</td>
+    <td><a href="//github.com/twpca/toi-primary-2022">R</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/checker">C</a></td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/problem">P</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/solution">SO</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/validator">V</a></td>
+    <td>
+      <a href="//github.com/twpca/toi-primary-2022/tree/main/config">Config</a><br>
+      <a href="//toip2022.twpca.org/release/unittest.html">Report1</a><br>
+      <a href="//toip2022.twpca.org/release/result.html">Report2</a><br>
+    </td>
+    <td><a href="//toip2022.twpca.org/editorial/editorial">E</a></td>
+    <td><a href="//toip2022.twpca.org/release/problem/problems.pdf">PS</a></td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/toi-primary-2022/tree/main/release/testdata">T</a></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>2021</td>
     <td><a href="//github.com/twpca/toi-primary-2021">R</a></td>
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/checker">C</a></td>
@@ -148,14 +172,18 @@ layout: default
 
 ## 提供資料
 
-如果你有意願提供競賽資料分享我們都很歡迎，但請留意以下事情：
+本頁的宗旨是希望能提供一個公開且容易搜索的地方分享各式競技程式比賽資料。
+搜集資料的目的是為了提供給任何有興趣的人參考或練習，
+並不保證和原比賽題目完全一致。
+比賽形式、資料來源原則上只要沒有侵權都沒有特別的限制。
 
-- 比賽主辦單位同意公開的項目，如測資、題目敘述等
-- 驗題者/出題者是否同意公開測試用的程式碼結果
-- 驗題者/出題者是否有意願具名、或者希望匿名
-- 是否有侵權或個資問題
+關於資料權益相關的問題下面提供幾個原則參考：
 
-沒問題的話可以將整理的資料投稿至下列聯絡信箱，或送 pull request 至已存在的 repo。
+- 照法規舉辦的考試問題依法規定沒有著作權，只要在公開網路上搜集得到的資料都歡迎轉載或備份進來
+- 出題者、主辦者分享未公開問題無論是否有著作權問題原則上請取得主辦方的同意
+- 解答、各式文件、部落格文章等請取得原作者同意，並確認原作者是否願意具名
+
+可以將整理的資料投稿至下列聯絡信箱，或送 pull request 至已存在的 repo。
 
 ## 管理者募集中
 
