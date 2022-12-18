@@ -36,6 +36,24 @@ layout: default
     <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
+    <td>2022</td>
+    <td><a href="//github.com/twpca/nhspc-2022">R</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/nhspc-2022/tree/main/problems">P</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>
+      -
+    </td>
+    <td></td>
+    <td><a href="//nhspc2022.twpca.org/release/problems/problems.pdf">PS</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>2021</td>
     <td><a href="//github.com/twpca/nhspc-2021">R</a></td>
     <td><a href="//github.com/twpca/nhspc-2021/tree/main/checker">C</a></td>
