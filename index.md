@@ -46,7 +46,7 @@ layout: default
     <td>
       -
     </td>
-    <td></td>
+    <td><a href="//nhspc2022.twpca.org/editorial/editorial">E</a></td>
     <td><a href="//nhspc2022.twpca.org/release/problems/problems.pdf">PS</a></td>
     <td>-</td>
     <td>-</td>
