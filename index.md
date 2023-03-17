@@ -8,6 +8,8 @@ layout: default
 
 [Archive 首頁](https://www.twpca.org/)
 
+[問卷](https://docs.google.com/forms/d/e/1FAIpQLSd3pXpvEn09Qp4xsRIiN39DfLoZxVJTv3JPjZCeca-HOz_-Iw/viewform)
+
 ## 已公開資料
 
 ### 全國資訊學科能力競賽 (NHSPC)
