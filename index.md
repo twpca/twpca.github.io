@@ -38,6 +38,25 @@ layout: default
     <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
+    <td>2024</td>
+    <td><a href="//github.com/twpca/nhspc-2024">R</a></td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/checker">C</a></td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/generator">G</a></td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/problems">P</a></td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/solution">SO</a></td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/validator">V</a></td>
+    <td>
+      <a href="//github.com/twpca/nhspc-2024/tree/main/config">Config</a><br>
+      <a href="//nhspc2024.twpca.org/release/unittest.html">Report</a><br>
+    </td>
+    <td><a href="//nhspc2024.twpca.org/editorial/editorial">E</a></td>
+    <td><a href="//nhspc2024.twpca.org/release/problems/problems.pdf">PS</a></td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/nhspc-2024/tree/main/release/testdata">T</a></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>2023</td>
     <td><a href="//github.com/twpca/nhspc-2023">R</a></td>
     <td><a href="//github.com/twpca/nhspc-2023/tree/main/checker">C</a></td>
