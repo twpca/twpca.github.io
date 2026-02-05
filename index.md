@@ -199,6 +199,25 @@ layout: default
     <th title="Participants" alt="Participants">Ps</th>
   </tr>
   <tr>
+    <td>2025</td>
+    <td><a href="//github.com/twpca/toi-primary-2025">R</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/checker">C</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/generator">G</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/problems">P</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/solution">SO</a></td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/validator">V</a></td>
+    <td>
+      <a href="//github.com/twpca/toi-primary-2025/tree/main/config">Config</a><br>
+      <a href="//toip2025.twpca.org/release/unittest.html">Report</a><br>
+    </td>
+    <td>-</td>
+    <td><a href="//toip2025.twpca.org/release/problems/problems.pdf">PS</a></td>
+    <td>-</td>
+    <td><a href="//github.com/twpca/toi-primary-2025/tree/main/release/testdata">T</a></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>2024</td>
     <td><a href="//github.com/twpca/toi-primary-2024">R</a></td>
     <td><a href="//github.com/twpca/toi-primary-2024/tree/main/checker">C</a></td>
